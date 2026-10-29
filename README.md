@@ -5,6 +5,26 @@
 **Hispania Casino** is a multilingual collection of five classic
 casino-style games, developed with Phaser 4, JavaScript and Vite.
 
+---
+
+## 🎬 Gameplay Demo
+
+<video src="https://www.jorgesegovia.es/games/mini-fruit-slot/casinoCTornado.mp4" controls="controls" width="100%">
+  Tu navegador no soporta el reproductor de vídeo HTML5.
+</video>
+
+> 📺 **[Ver o descargar vídeo completo de demostración en alta definición (MP4)](https://www.jorgesegovia.es/games/mini-fruit-slot/casinoCTornado.mp4)**
+
+---
+
+
+# 🏛️ Hispania Casino
+
+### Five HTML5 Casino-Style Games · Phaser 4 · JavaScript
+
+**Hispania Casino** is a multilingual collection of five classic
+casino-style games, developed with Phaser 4, JavaScript and Vite.
+
 Set within a Hispano-Roman-inspired visual theme, the project brings
 together fruit slots, European roulette, dice, blackjack and a
 wheel of fortune.
@@ -868,10 +888,15 @@ Canvas y WebGL.
 **Solo utiliza créditos virtuales. No admite dinero real.**
 
 ---
-Coque Tornado 
 
-Software Engineer · HTML5 Game Development
-  
+## Author 
+
+Coque Tornado
+
+Portfolio:  
+
+https://github.com/coquetornado
+
 ---
 
 Developed as a technical portfolio project demonstrating
